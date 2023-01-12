@@ -1,0 +1,5 @@
+files=/sys/devices/virtual/dmi/id/product_name,/etc/passwd,/proc/scsi/scsi,/proc/cpuinfo,/sys/class/dmi/id/bios_vendor,/proc/modules,/proc/iomem,/proc/ioports
+directories=/dev/disk/by-id
+vm_strings=hypervisor,vbox,virtualbox,vmware,phoenix,innotek,vboxvideo,vboxguest,vmw_balloon,vmwgfx
+mac_address=08:00:27,00:05:69,00:0c:29,00:0C:29,00:1C:14,00:1c:14
+cpu_ids=xenvmmxenvmm,microsoft hv,prl hyperv,vboxvboxvbox,kvmkvmkvm,vmwarevmware
